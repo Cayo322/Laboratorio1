@@ -1,0 +1,23 @@
+h1.titulo{
+	color:white; 
+	background-color: rgb(93, 173, 226); 
+	border: 2px solid black; 
+	text-align: center;
+}
+div.campos{
+	float: right;
+	
+  	
+}
+div.air{
+	float: left;
+}
+input.enviar{
+	color:white;
+	background-color: rgb(93, 173, 226); 
+	border: 2px solid black; 
+	text-align: center;
+}
+div.caja{
+	float: left;
+}
